@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "MyOriginalTimerV1.2WebGL.data.unityweb",
+"asmCodeUrl": "MyOriginalTimerV1.2WebGL.asm.code.unityweb",
+"asmMemoryUrl": "MyOriginalTimerV1.2WebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "MyOriginalTimerV1.2WebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
